@@ -1,0 +1,13 @@
+body {
+    background-color: #e0f7fa;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin-left: 10%;
+}
+
+
+/*# sourceMappingURL=/master.0b127394.css.map */

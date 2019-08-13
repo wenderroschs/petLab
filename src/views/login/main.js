@@ -9,7 +9,7 @@ const init = () => {
 
     const instance = M.Carousel.init(carousel);
 
-    const setHeight = () => carousel.style.height = `${window.innerHeight - 206}px`;
+    // const setHeight = () => carousel.style.height = `${window.innerHeight - 206}px`;
     // // Setting height (init);
     setHeight();
 
